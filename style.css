@@ -1,0 +1,67 @@
+.body{
+    text-align: center;
+    background-color: #283149;
+
+}
+
+h1{
+    font-size: 5rem;
+    color: #Dbefd3;
+    font-family:"roboto",cursive;
+    text-shadow: 3px 0 #da0463;
+}
+footer{ 
+    color: #Dbefd3;    
+    font-family: sans-serif;
+
+}
+.w{ 
+    background-image: url(images/crash.png);
+}
+.a{
+    background-image: url(images/kick.png);
+
+}
+.s{
+    background-image: url(images/snare.png);
+
+ }
+.d{
+    background-image: url(images/tom1.png);
+  }
+.j{
+    background-image: url(images/tom2.png);
+}
+.k{
+    background-image: url(images/tom3.png);
+}
+.l{
+    background-image: url(images/tom4.png);
+}  
+.pressed{
+    box-shadow: 0 3px 4px 0 red;
+    opacity: 0.5;
+}
+.drum{
+    outline: none;
+    border: 10px;
+    font-size: 5rem;
+    line-height: 2;
+    font-weight: 900;
+    color: #da0463;
+    text-shadow: 3PX 0 #Dbefd3;
+    border-radius: 15PX;
+    display: inline-block;
+    width: 150px;
+    height:150px ;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+
+}
+.set {
+    margin: 10% auto;
+  }
+*{
+    color: red;
+}  
